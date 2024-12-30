@@ -36,3 +36,7 @@ XML 파싱, JDBC Batch
 2. 알라딘 Open API와 XML 파싱을 통해 실시간 도서 데이터 검색 및 저장 기능을 구현
 3. 테이블 간 외래 키 설정과 시퀀스를 활용해 안정적인 데이터베이스 구조 설계
 </aside>
+
+
+**상세 정보 링크**
+https://choeyouth.notion.site/JDBC-8032da835d18477ea366eafdd03072fd?pvs=4
